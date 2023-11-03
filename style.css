@@ -23,13 +23,20 @@ header {
     justify-content: flex-start;
     align-items: center;
     z-index: 100;
+    
 }
 
-.logo {
+/* .logo {
     font-size: 2em;
     color: #359381;
     pointer-events: none;
-    margin-right: 300px;
+    margin-right: 190px;
+} */
+
+.fotoAtas {
+    width: 200px;
+    height: 100px;
+    margin-right: 190px;
 }
 
 .navigation a {
