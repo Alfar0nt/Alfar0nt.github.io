@@ -1,3 +1,5 @@
+Silahkan gunakan fitur search (ctrl+f) di browser untuk mencari soal, karena soalnya di acak
+
 1. **Soal:** Kondisi RACE CONDITION pada proses konkuren terjadi ketika ...
 
 **Pilihan:**
